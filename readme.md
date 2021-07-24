@@ -1,3 +1,8 @@
+[![PyPI status](https://img.shields.io/pypi/status/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
+
+
 # Story
 
 I am making this git to help my juniors friends who want to learn tensorflow2 to pursue their careers as machine learning/ deep learning engineers or data scientists. In this git I will try to mention all the basic things of TensorFlow and add a description of why we are using, to clear your concepts.
