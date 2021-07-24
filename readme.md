@@ -7,7 +7,7 @@ I am making this git to help my juniors friends who want to learn tensorflow2 to
 # Notebooks and their description
 <br>
 
-## play_with_tensorflow
+## play_with_tensors.ipynb
 This notebook includes some basic operations and concepts of TensorFlow
 
 
