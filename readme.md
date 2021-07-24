@@ -27,6 +27,5 @@ This notebook includes some basic operations and concepts of TensorFlow
 # Helping Material
 
 * Google
-* Docker Documentation
 * TensorFlow Documentation
 * Stack-overflow
