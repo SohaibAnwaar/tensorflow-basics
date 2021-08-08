@@ -14,7 +14,7 @@ I am making this git to help my juniors friends who want to learn tensorflow2 to
 
 1. **Play with Tensorflow** : This notebook includes some really basic things about tensorflow.
 
-1. **Tensorflow-basic-regression-problem** : This notebook includes some basic preprocessing techniques, tensorflow techniques, You will enjoy the notebook [Kaggle Notebook](https://www.kaggle.com/sohaibanwaar1203/notebookd8cde12884)
+1. **Tensorflow-basic-regression-problem** : This notebook includes some basic preprocessing techniques, tensorflow techniques, You will enjoy the notebook [Kaggle Notebook](httpshttps://www.kaggle.com/sohaibanwaar1203/tensorflow-regression-for-beginners-ipynb?scriptVersionId=70728589)
 
 2. **Matrix Multiplication on GPU/CPU** : In this python file you will be able to learn how to perform operations on cpu and gpu
 
