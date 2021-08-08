@@ -12,14 +12,12 @@ I am making this git to help my juniors friends who want to learn tensorflow2 to
 # Notebooks and their description
 <br>
 
-## play_with_tensors.ipynb
-This notebook includes some basic operations and concepts of TensorFlow
+1. **Play with Tensorflow** : This notebook includes some really basic things about tensorflow.
 
+1. **Tensorflow-basic-regression-problem** : This notebook includes some basic preprocessing techniques, tensorflow techniques, You will enjoy the notebook [Kaggle Notebook](https://www.kaggle.com/sohaibanwaar1203/notebookd8cde12884)
 
-1. Variable, Constant, Matrix
-2. tf.constant, tf.variable
-3. Generating Random Number array TensorFlow (with normal Distribution)
-4. Shuffling Tensors
+2. **Matrix Multiplication on GPU/CPU** : In this python file you will be able to learn how to perform operations on cpu and gpu
+
 
 # Author 
 
@@ -34,3 +32,4 @@ This notebook includes some basic operations and concepts of TensorFlow
 * Google
 * TensorFlow Documentation
 * Stack-overflow
+* Udemy 
